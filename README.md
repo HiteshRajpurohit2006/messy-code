@@ -9,4 +9,4 @@
 - Returns data instead of just printing, so it is reusable and testable
 - Proper formatting (PEP 8) and `if __name__ == "__main__"` guard
 
-**Author:** Raghav Gattani
+**Author:** Hitesh
